@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mars-Sea)](https://github.com/Mars-Sea)
 <!--
 **Mars-Sea/Mars-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
