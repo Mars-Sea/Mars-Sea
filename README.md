@@ -1,18 +1,43 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mars-Sea)](https://github.com/Mars-Sea)
+## 👋 Hi, I'm Mars-Sea
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mars-Sea&layout=compact)](https://github.com/Mars-Sea)
-<!--
-**Mars-Sea/Mars-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Engineer;Go+%7C+Java+%7C+Distributed+Systems;AI+Application+Developer;Build+Reliable+Systems)
 
-Here are some ideas to get you started:
+- 💻 Backend Engineer
+- ⚙️ Go / Java / Distributed Systems
+- 🤖 AI Application Developer
+- 🏃 Focus on health & performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-master-seas-projects-477002b9.vercel.app/api?username=Mars-Sea&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats-git-master-seas-projects-477002b9.vercel.app/api/top-langs/?username=Mars-Sea&layout=compact&theme=github_dark)
+
+---
+
+### 🚀 Featured Projects
+
+- **AI Health Analysis System**  
+  Go + SSE + Apple Watch data  
+  👉 https://github.com/Mars-Sea/your-project
+
+- **Go AI Service Framework**  
+  Multi-model / Streaming / Docker  
+  👉 https://github.com/Mars-Sea/your-project
+
+---
+
+### 📫 Contact
+
+- GitHub: https://github.com/Mars-Sea
