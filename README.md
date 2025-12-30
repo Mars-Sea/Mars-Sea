@@ -20,9 +20,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-seas-projects-477002b9.vercel.app/api?username=Mars-Sea&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-five-ruddy-55.vercel.app/api?username=Mars-Sea&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats-git-master-seas-projects-477002b9.vercel.app/api/top-langs/?username=Mars-Sea&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-five-ruddy-55.vercel.app/api/top-langs/?username=Mars-Sea&layout=compact&theme=github_dark)
 
 ---
 
