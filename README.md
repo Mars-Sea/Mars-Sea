@@ -24,8 +24,3 @@
 
 ![Top Langs](https://github-readme-stats-five-ruddy-55.vercel.app/api/top-langs/?username=Mars-Sea&layout=compact&theme=github_dark)
 
----
-
-### 📫 Contact
-
-- GitHub: https://github.com/Mars-Sea
