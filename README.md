@@ -26,18 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- **AI Health Analysis System**  
-  Go + SSE + Apple Watch data  
-  👉 https://github.com/Mars-Sea/your-project
-
-- **Go AI Service Framework**  
-  Multi-model / Streaming / Docker  
-  👉 https://github.com/Mars-Sea/your-project
-
----
-
 ### 📫 Contact
 
 - GitHub: https://github.com/Mars-Sea
