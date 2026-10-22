@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" fill="none">
+  <title>Mars-Sea · Backend · Distributed Systems · AI Tooling</title>
+  <rect x="0.5" y="0.5" width="839" height="199" rx="12" stroke="#D1D9E0"/>
+  <g stroke="#C4CCD5" stroke-width="1"><line x1="50" y1="56" x2="124" y2="128"/><line x1="124" y1="128" x2="190" y2="64"/><line x1="124" y1="128" x2="74" y2="168"/><line x1="190" y1="64" x2="220" y2="152"/><line x1="626" y1="52" x2="700" y2="120"/><line x1="700" y1="120" x2="658" y2="168"/><line x1="700" y1="120" x2="796" y2="160"/></g>
+  <line x1="700" y1="120" x2="774" y2="48" stroke="#0969DA" stroke-width="1.5"/>
+  <g stroke="#C4CCD5" stroke-width="1.2" fill="#FFFFFF"><circle cx="50" cy="56" r="4"/><circle cx="124" cy="128" r="4"/><circle cx="190" cy="64" r="4"/><circle cx="74" cy="168" r="4"/><circle cx="220" cy="152" r="4"/><circle cx="626" cy="52" r="4"/><circle cx="658" cy="168" r="4"/><circle cx="796" cy="160" r="4"/></g>
+  <circle cx="700" cy="120" r="5" fill="#0969DA"/>
+  <circle cx="774" cy="48" r="4" stroke="#0969DA" stroke-width="1.5" fill="#FFFFFF"/>
+  <text x="420" y="96" text-anchor="middle" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1">Mars-Sea</text>
+  <rect x="406" y="113" width="28" height="2" fill="#0969DA"/>
+  <text x="420" y="139" text-anchor="middle" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.5">BACKEND · DISTRIBUTED SYSTEMS · AI TOOLING</text>
+</svg>
