@@ -27,10 +27,12 @@ I like turning messy problems into systems that are clear, maintainable and obse
 
 ### Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Go · Java · Spring Boot · TypeScript · PostgreSQL · Redis · Kafka · Docker · Linux" width="728">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img src="assets/stack-light.svg" alt="Go · Java · Spring Boot · TypeScript · PostgreSQL · Redis · Kafka · Docker · Linux" width="728">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
